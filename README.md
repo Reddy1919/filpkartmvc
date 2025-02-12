@@ -1,1 +1,1 @@
-# filpkartmvc
+The Flipkart-like MVC CRUD application follows the **Model-View-Controller** architecture for managing products, users, and orders. It enables **Create, Read, Update, and Delete (CRUD)** operations for products, ensuring efficient data management. The backend (Model) handles business logic, the frontend (View) displays data, and the Controller manages user requests.
